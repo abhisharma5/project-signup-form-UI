@@ -1,0 +1,127 @@
+body{
+    background-color:#12273b;
+}
+footer{
+    margin-left: 130px;
+    color:white;
+    margin-top:50px;
+
+}
+#welcome{
+    color:white;
+    margin:0px;
+    padding:0px;
+    font-family: calibri;
+}
+p{
+    margin:0px;
+    padding:0px;
+font-family: verdana;
+}
+img{
+    height:400x;
+    width: 400px;
+    margin-left: 130px;
+    border-radius:150px;
+    filter:contrast(107%);
+    background-blend-mode: multiply;
+   
+    }
+#form{
+    height:600px;
+    width:380px;
+    position:relative;
+    background:#fff;
+    border-radius: 10px;
+    margin-top:80px;
+    float:right; 
+    margin-right:50px;   
+}
+.button-box{
+    width:220px;
+    margin:35px auto;
+    position:relative;
+    border radius:30px;
+}
+.toggle-btn{
+    padding: 10px 30px;
+    cursor:pointer;
+    background:transparent;
+    border:0;
+    outline:none;
+    position:relative;
+    color:#b3b3cb;
+    
+}
+.btn{
+    top:0;
+    left:0;
+    position:absolute;
+    width:110px;
+    height:100%;
+    transition:.5s;
+    
+
+}
+.input-group{
+top:180px;
+position:absolute;
+width:280px;
+transition:.5s;
+}
+.input-field{
+width:100%;
+padding:10px 0;
+margin:5px 0;
+border-left:0;
+border-top:0;
+border-right:0;
+border: 1px solid #999;
+outline:none;
+background:transparent;
+border-radius: 10px;
+margin-left:50px;
+}
+.submit-btn{
+    width:60%;
+    height:50px;
+    padding:10px 30px;
+    cursor:pointer;
+    display:block;
+    margin-left:100px;
+    background-color:#19334d;
+    border-radius:15px;
+    color:white;
+}
+
+.toggle-btn:hover{
+    border-bottom:2px solid #12273b;
+    color:#112436;
+}
+
+#input-name{
+    margin-left:50px;
+    font-family: verdana;
+    color: #19334d;
+}
+#register{
+    margin-left:100px;
+    margin-top:10px;
+    padding:0px; 
+    color:#b3b3cb;
+   
+}
+#forget{
+    margin-left:300px;
+    font-family: sans-serif;
+    float:right;
+    color:#19334d;
+    text-decoration: none;
+    margin:0px;
+    padding:0px;
+}
+#reg{
+    text-decoration: none;
+    color:#19334d;
+
+}
